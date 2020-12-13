@@ -100,11 +100,15 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Me llamo Chien Hsi Yao (Kevin), tengo 24 años y vine para Argentina cuando tenía 13. Actualmente estoy trabajando dentro de Banco ICBC siendo Analista Banca Electrónica y por otra parte tambien trabajo como Desarrollador Front End Freelance.",
+    "Me llamo Chien Hsi Yao (Kevin), nací en Taiwán y a los 13 años me vine a vivir a Argentina.",
   aboutParaTwo:
-    "Me estoy formando como Ingeniero Informático, una carrera que me apasiona. Soy proactivo, tengo excelente trato interpersonal con experiencia en trabajo en equipo, y oriento mi trabajo a los resultados esperados.",
+    "Actualmente tengo 24 años y estoy trabajando en el Banco ICBC como Analista de Banca Electrónica. Paralelamente, también estoy trabajando como Desarrollador Front End Freelance.",
   aboutParaThree:
-    "Mi objetivo es formar parte de una empresa donde pueda aplicar todos mis conocimientos y seguir aprendiendo para poder desarrollarme, crecer en ella e innovar en el área relacionado a mi carrera.",
+    "Me estoy formando como Ingeniero Informático en la UADE, y además realizo diversos cursos de IT para complementar esta carrera que tanto me apasiona.",
+  aboutParaFour:
+    "Soy una persona muy trabajadora y proactiva, tengo excelente trato interpersonal con experiencia en trabajo en equipo, y oriento mi trabajo a los resultados esperados.",
+  aboutParaFive:
+    "Mi objetivo es consolidarme en una empresa donde pueda aplicar todos mis conocimientos como Developer y seguir aprendiendo para poder crecer e innovar en el área de IT.",
   aboutImage:
     aboutImg,
 
